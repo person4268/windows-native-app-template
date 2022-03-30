@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/5/trunk/ndk
+END
+inbvfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/ndk/inbvfuncs.h
+END
+kefuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/trunk/ndk/kefuncs.h
+END
+cmfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/cmfuncs.h
+END
+rtlfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5/trunk/ndk/rtlfuncs.h
+END
+extypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/ndk/extypes.h
+END
+dbgkfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/ndk/dbgkfuncs.h
+END
+iofuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/iofuncs.h
+END
+sefuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/sefuncs.h
+END
+ldrtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/ndk/ldrtypes.h
+END
+mmfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/mmfuncs.h
+END
+cctypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/cctypes.h
+END
+pofuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/pofuncs.h
+END
+lpcfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/ndk/lpcfuncs.h
+END
+ntndk.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/ndk/ntndk.h
+END
+umfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/umfuncs.h
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/ndk/asm.h
+END
+psfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/psfuncs.h
+END
+inbvtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/ndk/inbvtypes.h
+END
+ketypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/ketypes.h
+END
+cmtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/cmtypes.h
+END
+rtltypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/ndk/rtltypes.h
+END
+ifssupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/ifssupp.h
+END
+setypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/setypes.h
+END
+iotypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/ndk/iotypes.h
+END
+dbgktypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/ndk/dbgktypes.h
+END
+kdfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/kdfuncs.h
+END
+mmtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/trunk/ndk/mmtypes.h
+END
+obfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/trunk/ndk/obfuncs.h
+END
+halfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/ndk/halfuncs.h
+END
+lpctypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/ndk/lpctypes.h
+END
+potypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/potypes.h
+END
+umtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/umtypes.h
+END
+pstypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/ndk/pstypes.h
+END
+exfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/exfuncs.h
+END
+ldrfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/ndk/ldrfuncs.h
+END
+kdtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/ndk/kdtypes.h
+END
+obtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/trunk/ndk/obtypes.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/ndk/readme.txt
+END
+haltypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/ndk/haltypes.h
+END
